@@ -8,7 +8,7 @@ Level: 7 Executer
 -Anti-ban/Anti-kick
 -Fe btools
 -Fe admin (including ban/Kick/kill)
--and much more feutures
+-and much more futures
 -------------------------------------------------------------------------
 download is in releases
 
